@@ -10,4 +10,4 @@ O algoritmo recebe a entrada do arquivo Sentença.txt, a entrada segue o padrão
 
 # Issues
 
-* [bug] Add an awesome feature ([#2][i1])
+* [bug] Limite de recursões ([#2][i1])
